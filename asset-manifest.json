@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cvc-decodable-reader/static/css/main.e6c13ad2.css",
+    "main.js": "/cvc-decodable-reader/static/js/main.c02863ce.js",
+    "static/js/453.44640aee.chunk.js": "/cvc-decodable-reader/static/js/453.44640aee.chunk.js",
+    "index.html": "/cvc-decodable-reader/index.html",
+    "main.e6c13ad2.css.map": "/cvc-decodable-reader/static/css/main.e6c13ad2.css.map",
+    "main.c02863ce.js.map": "/cvc-decodable-reader/static/js/main.c02863ce.js.map",
+    "453.44640aee.chunk.js.map": "/cvc-decodable-reader/static/js/453.44640aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c02863ce.js"
+  ]
+}
